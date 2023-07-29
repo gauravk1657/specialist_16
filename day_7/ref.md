@@ -1,0 +1,1 @@
+useRef is a hook used to create mutable references that persist across renders. It returns a mutable ref object with a .current property that can hold any value. Unlike state variables, changing the ref's .current property will not cause the component to re-render.
